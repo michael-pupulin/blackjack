@@ -1,0 +1,6 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-core_3/3.5.2/spark-core_3-3.5.2.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-sql_3/3.5.2/spark-sql_3-3.5.2.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_3/3.5.2/spark-streaming_3-3.5.2.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-sql_3/3.5.2/spark-sql_3-3.5.2.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-core_3/3.5.2/spark-core_3-3.5.2.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-streaming_3/3.5.2/spark-streaming_3-3.5.2.pom.sha1

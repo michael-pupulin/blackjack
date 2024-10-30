@@ -1,0 +1,28 @@
+## Terminal 1
+/opt/homebrew/bin/zookeeper-server-start /opt/homebrew/etc/zookeeper/zoo.cfg
+or zookeeper-server-start /opt/homebrew/etc/zookeeper/zoo.cfg
+
+
+
+## Terminal 2
+/opt/homebrew/bin/kafka-server-start /opt/homebrew/etc/kafka/server.properties
+or kafka-server-start /opt/homebrew/etc/kafka/server.properties
+
+
+## Terminal 3 
+to create a topic:
+kafka-topics --bootstrap-server localhost:9092 --topic player_actions --create --partitions 3 --replication-factor 1
+
+to list all existing topics (they appear to be permanent):
+kafka-topics --bootstrap-server localhost:9092 --list
+
+to read from a topic:
+
+/opt/homebrew/Cellar/kafka/3.8.0/bin/kafka-console-producer --bootstrap-server localhost:9092 --topic bet_actions
+/opt/homebrew/Cellar/kafka/3.8.0/bin/kafka-console-consumer --bootstrap-server localhost:9092 --topic player_actions --from-beginning
+
+
+to delete a topic:
+kafka-topics --bootstrap-server localhost:9092 --delete --topic player_actions
+
+--zookeeper localhost:2181 --delete --topic test

@@ -1,0 +1,79 @@
+2024.10.30 14:20:55 INFO  Started: Metals version 1.4.0 in folders '/Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack' for client Visual Studio Code 1.83.1.
+2024.10.30 14:20:55 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.30 14:20:55 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/FakePlayers.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:20:55 INFO  Attempting to connect to the build server...
+2024.10.30 14:20:55 INFO  Found a Bloop server running
+2024.10.30 14:20:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/bsp.trace.json or /Users/michaelpupulin/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.30 14:20:55 INFO  time: Connected to build server in 0.18s
+2024.10.30 14:20:55 INFO  Connected to Build server: Bloop v2.0.3
+2024.10.30 14:20:55 INFO  running doctor check
+2024.10.30 14:20:55 INFO  java targets: 
+2024.10.30 14:20:56 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/FakePlayers.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:20:57 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.30 14:20:57 INFO  time: indexed workspace in 1.4s
+2024.10.30 14:20:57 WARN  no build target for: /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/FakePlayers.scala
+2024.10.30 14:20:57 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/FakePlayers.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:20:57 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/FakePlayers.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:00 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/FakePlayers.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:00 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:00 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:00 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:00 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:04 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:04 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:04 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:05 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:05 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:06 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:08 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:08 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:08 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:08 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:08 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:08 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:09 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:09 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:09 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:09 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:10 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:09 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:10 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:10 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:10 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:10 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:10 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:11 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:10 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:10 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:11 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:11 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:12 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:12 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:12 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:12 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:12 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:12 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:13 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:12 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:13 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:13 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:13 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:14 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:14 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:15 WARN  no build target for: /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt
+2024.10.30 14:21:15 INFO  Detected new build tool in /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack
+2024.10.30 14:21:15 INFO  Disconnecting from Bloop session...
+2024.10.30 14:21:15 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:15 INFO  Shut down connection with build server.
+2024.10.30 14:21:15 INFO  Attempting to connect to the build server...
+2024.10.30 14:21:15 INFO  Found a Bloop server running
+2024.10.30 14:21:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/bsp.trace.json or /Users/michaelpupulin/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.30 14:21:15 INFO  time: Connected to build server in 0.12s
+2024.10.30 14:21:15 INFO  Connected to Build server: Bloop v2.0.3
+2024.10.30 14:21:15 INFO  running doctor check
+2024.10.30 14:21:15 INFO  java targets: 
+2024.10.30 14:21:15 INFO  time: indexed workspace in 0.68s
+2024.10.30 14:21:15 WARN  no build target for: /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt
+2024.10.30 14:21:15 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 2:21:16 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

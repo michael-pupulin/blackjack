@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/scala-3-project-template_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/Server.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FakePlayers$GameState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/FakePlayers$GameState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FakePlayers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/FakePlayers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FakePlayers.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/FakePlayers.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$GameState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/Server$GameState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/Server$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FakePlayers$GameState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/FakePlayers$GameState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Server$GameState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/Server$GameState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FakePlayers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/michaelpupulin/Documents/Programming/Scala/blackjack/dev/target/scala-3.5.1/classes/FakePlayers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

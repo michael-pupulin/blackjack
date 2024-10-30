@@ -1,0 +1,21 @@
+[0m[[0m[31merror[0m] [0m[0mjava.net.ConnectException: Connection refused[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.ch.UnixAsynchronousSocketChannelImpl.checkConnect(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.ch.UnixAsynchronousSocketChannelImpl.finishConnect(UnixAsynchronousSocketChannelImpl.java:252)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.ch.UnixAsynchronousSocketChannelImpl.finish(UnixAsynchronousSocketChannelImpl.java:198)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.ch.UnixAsynchronousSocketChannelImpl.onEvent(UnixAsynchronousSocketChannelImpl.java:213)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.ch.KQueuePort$EventHandlerTask.run(KQueuePort.java:312)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.ch.AsynchronousChannelGroupImpl$1.run(AsynchronousChannelGroupImpl.java:112)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.lang.Thread.run(Thread.java:829)[0m
+[0m[[0m[31merror[0m] [0m[0m	at delay @ fs2.io.net.SocketGroupCompanionPlatform$AsyncSocketGroup.connect$1$$anonfun$1$$anonfun$1(SocketGroupPlatform.scala:75)[0m
+[0m[[0m[31merror[0m] [0m[0m	at run$ @ FakePlayers$.run(FakePlayers.scala:20)[0m
+[0m[[0m[31merror[0m] [0m[0m	at async @ fs2.io.net.SocketGroupCompanionPlatform$AsyncSocketGroup.connect$1$$anonfun$1(SocketGroupPlatform.scala:76)[0m
+[0m[[0m[31merror[0m] [0m[0m	at map @ com.comcast.ip4s.SocketAddress.resolve(SocketAddress.scala:33)[0m
+[0m[[0m[31merror[0m] [0m[0m	at flatMap @ fs2.io.net.SocketGroupCompanionPlatform$AsyncSocketGroup.connect$1(SocketGroupPlatform.scala:77)[0m
+[0m[[0m[31merror[0m] [0m[0m	at delay @ fs2.io.net.SocketGroupCompanionPlatform$AsyncSocketGroup.setup$1$$anonfun$3(SocketGroupPlatform.scala:58)[0m
+[0m[[0m[31merror[0m] [0m[0m	at onError$extension @ org.typelevel.keypool.KeyPool$Builder.keepRunning$1(KeyPool.scala:383)[0m
+[0m[[0m[31merror[0m] [0m[0m	at delay @ fs2.io.net.SocketGroupCompanionPlatform$AsyncSocketGroup.setup$1(SocketGroupPlatform.scala:55)[0m
+[0m[[0m[31merror[0m] [0m[0m	at main$ @ FakePlayers$.main(FakePlayers.scala:20)[0m
+[0m[[0m[31merror[0m] [0m[0m	at main$ @ FakePlayers$.main(FakePlayers.scala:20)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) java.net.ConnectException: Connection refused[0m
