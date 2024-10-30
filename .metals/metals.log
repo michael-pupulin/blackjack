@@ -82,3 +82,114 @@ INFO: Unsupported notification method: $/setTrace
 2024.10.30 14:21:37 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
 2024.10.30 14:21:38 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
 2024.10.30 14:21:38 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:59 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:59 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:21:59 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 2:21:59 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_14-21-59-695.md
+2024.10.30 14:21:59 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 2:21:59 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_14-21-59-967.md
+2024.10.30 14:22:13 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:22:13 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 2:22:13 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_14-22-13-904.md
+2024.10.30 14:22:26 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:22:27 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:22:27 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:22:28 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:22:28 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:22:29 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 2:22:29 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_14-22-29-059.md
+2024.10.30 14:22:29 WARN  no build target for: /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala
+2024.10.30 14:22:29 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 14:22:29 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 2:22:29 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_14-22-29-910.md
+2024.10.30 14:23:05 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 2:23:05 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_14-23-05-479.md
+2024.10.30 14:23:05 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:22:29 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:22:29 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-22-29-343.md
+2024.10.30 15:22:33 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:22:36 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:22:36 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:22:36 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-22-36-936.md
+2024.10.30 15:22:42 INFO  Shutting down server
+2024.10.30 15:22:42 INFO  shutting down Metals
+2024.10.30 15:22:42 INFO  Shut down connection with build server.
+2024.10.30 15:22:42 INFO  Exiting server
+2024.10.30 15:22:59 INFO  Started: Metals version 1.4.0 in folders '/Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack' for client Visual Studio Code 1.83.1.
+2024.10.30 15:22:59 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.30 15:22:59 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:23:00 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:23:00 INFO  Attempting to connect to the build server...
+2024.10.30 15:23:00 INFO  Found a Bloop server running
+2024.10.30 15:23:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/bsp.trace.json or /Users/michaelpupulin/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.30 15:23:00 INFO  time: Connected to build server in 0.19s
+2024.10.30 15:23:00 INFO  Connected to Build server: Bloop v2.0.3
+2024.10.30 15:23:00 INFO  running doctor check
+2024.10.30 15:23:00 INFO  java targets: 
+2024.10.30 15:23:02 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.10.30 15:23:02 INFO  time: indexed workspace in 1.77s
+2024.10.30 15:23:02 WARN  no build target for: /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala
+2024.10.30 15:23:02 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:23:02 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:23:02 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-23-02-939.md
+2024.10.30 15:23:02 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:23:03 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-23-03-078.md
+2024.10.30 15:23:02 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:23:03 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-23-03-202.md
+2024.10.30 15:23:06 INFO  Disconnecting from Bloop session...
+2024.10.30 15:23:06 INFO  Shut down connection with build server.
+2024.10.30 15:23:06 INFO  Attempting to connect to the build server...
+2024.10.30 15:23:06 INFO  No running Bloop server found, starting one.
+2024.10.30 15:23:07 INFO  Starting compilation server
+2024.10.30 15:23:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/bsp.trace.json or /Users/michaelpupulin/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.10.30 15:23:07 INFO  time: Connected to build server in 1.15s
+2024.10.30 15:23:07 INFO  Connected to Build server: Bloop v2.0.3
+2024.10.30 15:23:07 INFO  running doctor check
+2024.10.30 15:23:07 INFO  java targets: 
+2024.10.30 15:23:07 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:23:08 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-23-08-531.md
+2024.10.30 15:23:07 INFO  time: indexed workspace in 0.69s
+2024.10.30 15:23:07 WARN  no build target for: /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala
+2024.10.30 15:23:08 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:23:09 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:23:09 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-23-09-185.md
+2024.10.30 15:23:21 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:23:21 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:23:21 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:23:21 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:23:22 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-23-22-010.md
+2024.10.30 15:23:21 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:23:23 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:23:23 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-23-23-757.md
+2024.10.30 15:23:24 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:24:13 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:24:13 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:24:13 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-24-13-722.md
+2024.10.30 15:24:17 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:24:17 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:24:17 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:24:17 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:24:17 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-24-17-751.md
+2024.10.30 15:24:26 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:24:26 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:24:26 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.10.30 15:24:26 INFO  no build target found for /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/dev/src/main/scala/Server.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Oct. 30, 2024 3:24:26 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/michaelpupulin/Documents/Programming/Scala/CasinoBlackjack/blackjack/.metals/.reports/metals-full/2024-10-30/r_compiler-error_15-24-26-983.md
