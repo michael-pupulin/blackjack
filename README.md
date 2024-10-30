@@ -21,7 +21,7 @@ To produce events, I am goign to combine the fs2-kafka library with our http4s s
 (4): Apache Spark is a popular tool for big data processing and comes with a couple of useful APIs such as Spark Streaming and the Spark ML library. 
 I've used these in the past but haven't had a chance to play with them in a while. At my work, my team uses Snowflake (both SnowSQL and Snowpark) to process and analyze data.
 The plan here is to stream data from the Kafka topic into Spark to detect card counting. At the same time, a seperate Spark consumer is going to batch load events into Iceberg tables.
-I may switch to Apache Flink in the card counting detection stream, since super low-latency fraud detection seems like a use case that Flink is designed for.
+I may switch to Apache Flink in the card counting detection stream, since super low-latency fraud detection seems like a use case that Flink was designed for, but Spark is more familiar to most and easier to find support for.
 
 (5) This part will definetly happen with Spark. I'm not sure what the best way to model this data will be yet, but I imagine I would want to answer questions such as 
 - How many players were active each minute?
